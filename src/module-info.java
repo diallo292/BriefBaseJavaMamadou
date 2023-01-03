@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author dial
+ *
+ */
+module BriefBaseJava {
+}
